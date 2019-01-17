@@ -1,0 +1,4 @@
+# do not include data folder
+data/
+fastai/
+tmp/
